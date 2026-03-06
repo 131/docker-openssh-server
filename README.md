@@ -13,5 +13,11 @@ Use your docker stack/config to adjust it to your needs
 Load your own entrypoint, and enjoy
 
 
+# Architectures
+Published tags are multi-architecture and support:
+- `linux/amd64`
+- `linux/arm64`
+
+
 # Credits
 * [131](https://github.com/131)
